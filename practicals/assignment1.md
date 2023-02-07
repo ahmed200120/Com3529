@@ -19,7 +19,7 @@ writing the test for.)
 1. (a) What and where is the defect?
    *[1 mark]*
 
-   (b) Under what condition(s) do inputs cause the method to fail?
+   (b) Under what condition(s) do inputs to the method cause it to fail?
    *[1 mark]*
 
    (c) Write a JUnit test case that causes the method to fail.
