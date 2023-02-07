@@ -27,8 +27,8 @@ writing the test for.)
    fail - i.e., the test should have an assertion for the _correct_ behaviour of the method.)
    *[1 mark]*
 
-2. (a) Is it possible for a test to _not_ execute the defect? If so, describe
-   the condition(s) under which inputs to the method cause this to happen.
+2. (a) Is it possible for inputs to the method to _not_ execute the defect? If so, describe
+   the condition(s) necessary for the inputs to the method that would cause this to happen.
     *[1 mark]*
 
    (b) If possible, according to your last answer, write a JUnit test case that
@@ -37,8 +37,8 @@ writing the test for.)
    *[1 mark if test is possible]*
 
 3. (a) Is it possible for an input to execute the defect but _not_ infect the
-   program's state? If so, describe the condition(s) under which inputs to the
-   method cause this to happen.
+   program's state? If so, describe
+   the condition(s) necessary for the inputs to the method that would cause this to happen.
    *[1 mark]*
 
    (b) If possible, according to your last answer, write a JUnit test case that
@@ -48,8 +48,8 @@ writing the test for.)
 
 4. (a) Is it possible for an input to cause an infection but _not_ cause the
    method to fail? (Note, program statements being executed when they shouldn't
-   count as an infection.) If so, describe the condition(s) under which inputs to
-   the method cause this to happen.
+   count as an infection.) If so, describe
+   the condition(s) necessary for the inputs to the method that would cause this to happen.
    *[1 mark]*
 
    (b) If possible, according to your last answer, write a JUnit test case that
@@ -71,9 +71,6 @@ You will need to submit three files:
    
    Where you are able to write a test, add it to a class `Assignment1Test.java`.
    
-   Where you cannot write a test method to respond ot the question, explain in
-   your report why you think it is not possible. 
-
 2. Your test class, `Assignment1Test.java`.
 
 3. Your fixed version of the original class, called `Assignment1Fixed.java`.
