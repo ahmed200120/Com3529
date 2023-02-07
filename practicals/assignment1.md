@@ -32,7 +32,7 @@ writing the test for.)
     *[1 mark]*
 
    (b) If possible, according to your last answer, write a JUnit test case that
-   demonstrates the above. 
+   demonstrates the scenario in (a). 
    This should be called `[methodName]_defectNotExecuted`.
    *[1 mark if test is possible]*
 
@@ -42,7 +42,7 @@ writing the test for.)
    *[1 mark]*
 
    (b) If possible, according to your last answer, write a JUnit test case that
-   demonstrates the above. 
+   demonstrates the scenario in (a).
    Call it `[methodName]_defectExecuted_noInfection`.
    *[1 mark if test is possible]*
 
@@ -52,8 +52,8 @@ writing the test for.)
    the condition(s) necessary for the inputs to the method that would cause this to happen.
    *[1 mark]*
 
-   (b) If possible, according to your last answer, write a JUnit test case that
-   demonstrates the above. 
+   (b) (b) If possible, according to your last answer, write a JUnit test case that
+   demonstrates the scenario in (a).
    Call it `[methodName]_defectExecuted_infectionCaused_noFailure`. 
    *[1 mark if test is possible]*
 
