@@ -11,7 +11,7 @@ Each method has a defect. You will need to write JUnit tests for each defect
 and establish a fix.
     
 Specifically, for each method in `Assignment1.java`, you will need to answer the
-following questions, that you'll need to submit as a PDF report. The tests you
+following questions, which you'll need to submit as a PDF report. The tests you
 write should be added to a class called `Assignment1Test.java` (NB: When naming
 tests, `[methodName]` should be replaced by the name of the method you are
 writing the test for.)
@@ -59,7 +59,7 @@ writing the test for.)
 
 5. Fix the defect and add the fixed method to a class called
    `Assignment1Fixed.java`, ensuring the test you wrote as part of Question 1
-   now passes. 
+   passes with the fixed version of the method. 
    *[1 mark]*
 
 ## Submission of Materials
@@ -78,7 +78,7 @@ You will need to submit three files:
 
 3. Your fixed version of the original class, called `Assignment1Fixed.java`.
 
-These three items should be zipped up and submitted via the "Assessment" page of
+These three items should be submitted via the "Assessment" page of
 the COM3529 module on Blackboard.
 
 ## Marking Scheme
