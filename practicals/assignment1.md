@@ -7,7 +7,7 @@ project that lives in the code directory of this repository. See
 The class contains four methods: `findLast`, `countPositive`, `lastZero`, and
 `oddOrPos`.
 
-Each method has a defect. You will need to write a JUnit tests to detect the
+Each method has a defect. You will need to write JUnit tests to detect the
 defect and establish when it has been fixed.
     
 Specifically, for each method in `Assignment1.java`, you will need to answer the
