@@ -34,7 +34,7 @@ writing the test for.)
    (b) If possible, according to your last answer, write a JUnit test case that
    demonstrates the above. 
    This should be called `[methodName]_defectNotExecuted`.
-   *[1 mark such if test is possible]*
+   *[1 mark if test is possible]*
 
 3. (a) Is it possible for an input to execute the defect but _not_ infect the
    program's state? If so, describe the condition(s) under which inputs to the
@@ -44,7 +44,7 @@ writing the test for.)
    (b) If possible, according to your last answer, write a JUnit test case that
    demonstrates the above. 
    Call it `[methodName]_defectExecuted_noInfection`.
-   *[1 mark such if test is possible]*
+   *[1 mark if test is possible]*
 
 4. (a) Is it possible for an input to cause an infection but _not_ cause the
    method to fail? (Note, program statements being executed when they shouldn't
@@ -55,7 +55,7 @@ writing the test for.)
    (b) If possible, according to your last answer, write a JUnit test case that
    demonstrates the above. 
    Call it `[methodName]_defectExecuted_infectionCaused_noFailure`. 
-   *[1 mark such if test is possible]*
+   *[1 mark if test is possible]*
 
 5. Fix the defect and add the fixed method to a class called
    `Assignment1Fixed.java`, ensuring the test you wrote as part of Question 1
@@ -83,17 +83,11 @@ the COM3529 module on Blackboard.
 
 ## Marking Scheme
 
-Marks are allocated based on how fast you turnaround this assignment, as well as
-how well you answer the questions. 
-
 Up to one point will be allocated for each correct answer to each question.
 
-Your points total will then be scaled by the hand-in date as follows to
-calculate a final mark:
+The deadline for this work to be handed in is **Wednesday 1st March, 5pm.**
 
-* 100% for submissions before 11:59 Wednesday 15/2/2023
-* 80% for submissions before 11:59 Wednesday 22/2/2023
-* 60% for submissions thereafter (**hard deadline: 1/3/2023 11:59pm**)
+## Unfair Means
 
-The earlier you hand-in your work, the higher the mark you will be able to
-achieve.
+This assignment is to done **independently**. [Standard department procedures apply
+with respect to unfair means.](https://sites.google.com/sheffield.ac.uk/comughandbook/your-study/assessment/unfair-means?authuser=0)
