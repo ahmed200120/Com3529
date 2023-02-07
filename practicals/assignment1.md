@@ -22,7 +22,7 @@ writing the test for.)
    (b) Under what condition(s) do inputs to the method cause it to fail?
    *[1 mark]*
 
-   (c) Write a JUnit test case that causes the method to fail.
+   (c) Write ONE JUnit test case that causes the method to fail.
    This should be called `[methodName]_failure`. (Note that the test should also
    fail - i.e., the test should have an assertion for the _correct_ behaviour of the method.)
    *[1 mark]*
@@ -31,7 +31,7 @@ writing the test for.)
    the condition(s) necessary for the inputs to the method that would cause this to happen.
     *[1 mark]*
 
-   (b) If possible, according to your last answer, write a JUnit test case that
+   (b) If possible, according to your last answer, write ONE JUnit test case that
    demonstrates the scenario in (a). 
    This should be called `[methodName]_defectNotExecuted`.
    *[1 mark if test is possible]*
@@ -41,7 +41,7 @@ writing the test for.)
    the condition(s) necessary for the inputs to the method that would cause this to happen.
    *[1 mark]*
 
-   (b) If possible, according to your last answer, write a JUnit test case that
+   (b) If possible, according to your last answer, write ONE JUnit test case that
    demonstrates the scenario in (a).
    Call it `[methodName]_defectExecuted_noInfection`.
    *[1 mark if test is possible]*
@@ -52,14 +52,14 @@ writing the test for.)
    the condition(s) necessary for the inputs to the method that would cause this to happen.
    *[1 mark]*
 
-   (b) (b) If possible, according to your last answer, write a JUnit test case that
+   (b) If possible, according to your last answer, write ONE JUnit test case that
    demonstrates the scenario in (a).
    Call it `[methodName]_defectExecuted_infectionCaused_noFailure`. 
    *[1 mark if test is possible]*
 
 5. Fix the defect and add the fixed method to a class called
-   `Assignment1Fixed.java`, ensuring the test you wrote as part of Question 1
-   passes with the fixed version of the method. 
+   `Assignment1Fixed.java`. (Ensure the test you wrote as part of Question 1
+   passes when run with the fixed version of the method.)
    *[1 mark]*
 
 ## Submission of Materials
