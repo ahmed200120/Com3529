@@ -86,5 +86,5 @@ The deadline for this work to be handed in is **Wednesday 1st March, 5pm.**
 
 ## Unfair Means
 
-This assignment is to done **independently**. [Standard department procedures apply
+This assignment is to **completed by yourself, on your own**. [Standard department procedures apply
 with respect to unfair means.](https://sites.google.com/sheffield.ac.uk/comughandbook/your-study/assessment/unfair-means?authuser=0)
