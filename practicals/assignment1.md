@@ -66,8 +66,8 @@ writing the test for.)
 
 You will need to submit three files:
 
-1. A short report, in PDF format, that should answer each of the above six
-   questions for each method that appears in `Assignment1.java`. 
+1. A short report, in PDF format, that should answer each of the questions above
+   for each method that appears in `Assignment1.java`. 
    
    Where you are able to write a test, add it to a class `Assignment1Test.java`.
    
