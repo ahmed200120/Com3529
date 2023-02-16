@@ -83,6 +83,7 @@ the COM3529 module on Blackboard.
 Up to one point will be allocated for each correct answer to each question.
 
 The deadline for this work to be handed in is **Wednesday 1st March, 5pm.**
+Work should be submitted via the [Assessment page on Blackboard](https://vle.shef.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_5917864_1&course_id=_102825_1&mode=reset).
 
 ## Unfair Means
 
