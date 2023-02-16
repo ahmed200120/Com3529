@@ -13,7 +13,7 @@ public class StringUtilsBuggy2 {
         Set<Character> duplicates = new TreeSet<>();
 
         // iterate through the string
-        for (int i = 1; i < s.length(); i++) {
+        for (int i = 0; i > s.length(); i++) {
             char si = s.charAt(i);
 
             // iterate through the rest of the string, checking for the same letter
